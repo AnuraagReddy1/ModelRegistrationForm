@@ -1,15 +1,8 @@
-import {
-  Button,
-  InputLabel,
-  MenuItem,
-  TextField,
-  Typography,
-} from "@mui/material";
+import { Button, InputLabel, MenuItem, TextField } from "@mui/material";
 import "./ModelRegForm.css";
 import { useState } from "react";
 import { DatePicker, LocalizationProvider } from "@mui/x-date-pickers";
 import { AdapterDayjs } from "@mui/x-date-pickers/AdapterDayjs";
-import { CloudUpload } from "@mui/icons-material";
 
 const ModelRegForm = () => {
   const registrationHandler = (e) => {
