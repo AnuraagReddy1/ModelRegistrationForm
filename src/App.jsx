@@ -1,5 +1,5 @@
 import "./App.css";
-import ModelRegForm from "./ModelRegForm.js";
+import ModelRegForm from "./ModelRegForm.jsx";
 
 function App() {
   return (
