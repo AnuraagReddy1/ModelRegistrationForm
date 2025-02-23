@@ -26,7 +26,7 @@ const ModelRegForm = () => {
   return (
     <div>
       <img
-        src="src\assets\vecteezy_one-woman-walking-on-the-beach-at-sunset_27101842.jpg"
+        src="src/assets/vecteezy_one-woman-walking-on-the-beach-at-sunset_27101842.jpg"
         alt="sunset"
         className="pageBackground"
       />
